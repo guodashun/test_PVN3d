@@ -1,0 +1,16 @@
+sugar_box
+rubiks_cube
+wooden_puzzle2
+pepsi
+wooden_puzzle1
+master_chef_can
+jenga
+pudding_box
+wood_block
+realsense_box
+tuna_fish_can
+potted_meat_can
+tomato_soup_can
+redbull
+wooden_puzzle3
+cracker_box
